@@ -1,4 +1,4 @@
-# Olá! Prazer, meu nome é Adriel :)
+# Prazer, meu nome é Adriel :)
 
 ### PT
 Possuo experiência trabalhando com desenvolvimento de software em C#, utilizando REST APIs, MySQL, .NET e os princípios SOLID. Além disso, também já trabalhei com typescript e javascript para automatizar testes utilizando a ferramenta cypress.
