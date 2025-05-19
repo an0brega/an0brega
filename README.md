@@ -1,6 +1,6 @@
 # 👋 Hello, nice to meet you!
 
-I'm **Adriel Nóbrega**, a software developer with experience building backend and frontend applications using **Java**, **C#**, **JavaScript**, and **TypeScript**. I enjoy creating clean, maintainable, and scalable code, whether working on APIs, database integrations, or user interfaces.
+I'm **Adriel**, a software developer with experience building backend and frontend applications using **Java**, **C#**, **JavaScript**, and **TypeScript**. I enjoy creating clean, maintainable, and scalable code, whether working on APIs, database integrations, or user interfaces.
 
 ### 🛠️ Technologies & Tools
 
