@@ -29,5 +29,8 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat&logo=pattern-recognition&logoColor=white)
 
 ---
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=an0brega&theme=swift)
+
 
 > “Do. Or do not. There is no try. - Master Yoda 
+
