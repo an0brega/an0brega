@@ -1,39 +1,33 @@
-# 👋 Hello, nice to meet you!
-
-I'm **Adriel**, a software developer with experience building backend and frontend applications using **Java**, **C#**, **JavaScript**, and **TypeScript**. I enjoy creating clean, maintainable, and scalable code, whether working on APIs, database integrations, or user interfaces.
+# # 💡 Evolving through clean code, bold ideas and caffeine
 
 ### 🛠️ Technologies & Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-</div>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c%23) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📫 How to reach me
 
-<div> 
-  <a href="mailto:adrinobregacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrielnobrega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_adrielnobrega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:adrinobregacosta@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrielnobrega) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_adrielnobrega)
 
 ---
 
 ### 💡 Currently working on
 
-- Improving my skills in **clean architecture** and **design patterns**
-- Building personal projects to deepen knowledge in and **Java** and **Spring Boot**
-- Exploring **Cloud services** and DevOps basics
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat&logo=pattern-recognition&logoColor=white)
 
 ---
 
-### ⚡ Fun fact
-
-> I'm passionate about software that makes life easier — and I love combining simplicity with functionality.
-
+> “Do. Or do not. There is no try. - Master Yoda 
